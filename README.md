@@ -29,17 +29,15 @@ The columns present in the dataset are,
 
 # EDA
 
-1. Number of companies  
-![Number of companies](images/Number%20of%20companies.png)
+1. Number of companies
+<img src = "images/Number of companies.png">
 
-2. Mean laptop price with respect to company  
-![Mean prices wrt companies](images/Mean%20prices%20wrt%20companies.png)
+2. Mean laptop price with respect to company
+<img src = "images/Mean prices wrt companies.png">
 
-3. Distribution of laptop prices  
-![Distribution of laptop price](images/Distribution%20of%20laptop%20price.png)
+3. Distribution of laptop prices
+<img src = "images/Distribution of laptop price.png">
 
-4. Correlation plot  
-![Correlation plot](images/Correlation%20plot.png)
 
 # Multiple Linear Regression
 To determine the relationship between two or more independent variables and a dependent variable, utilize multiple linear regression. In this instance, we can examine how the columns are affecting the "Price" column. We can determine which factors contribute to a laptop's overall cost using this model. However, this model has limitations of its own, which is where regularized models come into play.
