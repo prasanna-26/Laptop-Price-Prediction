@@ -27,8 +27,6 @@ The columns present in the dataset are,
 
 # EDA
 
-# EDA
-
 1. Number of companies
 <img src = "images/Number of companies.png">
 
